@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/components/atmosphere.tsx","./src/components/avatarcharacter.tsx","./src/components/herosequence.tsx","./src/components/japanesegate.tsx","./src/components/projectslanding.tsx","./src/components/soundtoggle.tsx","./src/components/avatarrig.ts","./src/lib/fx.ts","./src/lib/scroll.ts","./src/lib/sound.ts"],"version":"5.9.3"}
